@@ -4,6 +4,7 @@
  </head>
 <body>
 <h1 style = "color : red"> Welcome to Ubuntu </h1>
+<h2> karthick website </h2>
 </body>
 </html>
 
